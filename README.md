@@ -1,4 +1,4 @@
-## Hello there, my name is Jon - you can learn more about me at my website [bearlycognitive][website] :bear:
+## Hello there, my name is Jon - you can learn more about me at my website        [bearlycognitive][website] :bear:
 
 ---
 
