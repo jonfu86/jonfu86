@@ -76,5 +76,5 @@
 </details>
 
 [website]: https://bearlycognitive.com
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/jonfu
 [email]: mailto:jonfu86@gmail.com
